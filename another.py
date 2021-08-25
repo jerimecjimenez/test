@@ -1,2 +1,3 @@
-print('hello world!')
-print(input('Your Name: '))
+print('test')
+print('test')
+print('test')
